@@ -1,1 +1,1 @@
-Hotfix appplied
+Hotfix config for prod
